@@ -6,6 +6,7 @@ dalam dataset ini.
 − Pelanggan Laki-laki Lebih Banyak: Total pelanggan laki-laki (2668) juga lebih 
 banyak daripada pelanggan perempuan (1831). Hal ini mungkin mengindikasikan 
 bahwa laki-laki adalah kelompok yang lebih besar dalam populasi pelanggan.
+
 Rekomendasi Bisnis
 Hal ini menandakan bahwa E-commerce perlu Fokus pada Retensi Pelanggan Lakilaki: Karena jumlah pelanggan laki-laki yang berhenti berlangganan lebih tinggi, perusahaan 
 mungkin perlu lebih memfokuskan upaya pada retensi pelanggan laki-laki. Ini bisa mencakup 
@@ -26,6 +27,7 @@ memilihnya. Ini bisa menjadi indikasi pertumbuhan pembayaran digital.
 sedikit dibandingkan metode digital, masih ada 355 pelanggan yang memilih 
 pembayaran saat pengiriman (Cash on Delivery). Ini mungkin sesuai dengan 
 preferensi pelanggan yang lebih suka membayar saat menerima barang.
+
 Rekomendasi Bisnis:
 Dengan pemahaman tentang preferensi pembayaran pelanggan, perusahaan dapat 
 menyesuaikan strategi pemasaran dan pembayaran mereka. Ini dapat mencakup promosi 
@@ -44,6 +46,7 @@ produk-produk dengan kategori ini cukup populer bagi para customer.
 berada diposisi tiga terendah. Ini bisa menjadi peluang untuk meningkatkan strategi 
 pemasaran atau pengembangan produk dalam kategori-kategori ini untuk 
 meningkatkan penjualan atau pangsa pasar.
+
 Rekomendasi Bisnis
 Dalam rangka meningkatkan bisnis, perusahaan dapat mempertimbangkan untuk lebih 
 fokus pada kategori-kategori yang lebih dominan (Laptop & Accessory, Mobile Phone dan 
@@ -61,6 +64,7 @@ bisa menunjukkan bahwa pelanggan yang sudah menikah lebih stabil dalam
 hubungannya dengan perusahaan.
 − Customer paling rendah churn berstatus divorce karena customer berstatus divorce 
 berjumlah lebih sedikit(848) customer
+
 Rekomendasi Bisnis:
 E-Commerce dapat lebih memperhatikan pelanggan yang berstatus lajang. Mungkin 
 ada faktor-faktor khusus yang membuat pelanggan lajang lebih rentan terhadap churn. 
@@ -79,6 +83,7 @@ digunakan pelanggan ecommerce untuk login ke dalam ecommerce dengan jumlah
 pengguna lebih dari 1500 pengguna.
 − Device phone merupakan device yang paling sedikit digunakan untuk login ke dalam 
 ecommerce dengan jumlah pelanggan ecommerce sebanyak lebih dari 1000.
+
 Rekomendasi Bisnis:
 − Karena mayoritas pelanggan memilih untuk menggunakan perangkat mobile, pastikan 
 bahwa situs web atau aplikasi e-commerce dioptimalkan dengan baik untuk 
@@ -100,6 +105,7 @@ mereka yang memberikan nilai kepuasan sebesar 3. Disusul oleh mereka yang member
 nilai 5 dan 4, yang juga menunjukkan tingkat churn yang signifikan. Di sisi lain, pelanggan 
 yang memberikan nilai kepuasan 1 dan 2 memiliki tingkat churn yang paling rendah 
 dibandingkan dengan kelompok lainnya. 
+
 Rekomendasi Bisnis:
 Hal tersebut dapat dijadikan acuan bagi pengembang untuk meningkkatkan kualitas 
 layanan agar para pelanggan mendapatkan tingkat kepuasan yang baik sehingga pelanggan 
@@ -109,6 +115,7 @@ Insight:
 Data dalam grafik secara jelas mengindikasikan bahwa pelanggan yang pernah mengajukan 
 komplain terkait dengan layanan cenderung memiliki risiko tinggi terhadap churn, dibandingkan 
 dengan pelanggan yang belum pernah mengajukan komplain sebelumnya. 
+
 Rekomendasi Bisnis:
 Hal tersebut dapat dijadikan sebagai acuan oleh pengembang untuk meningkatkan kulitas 
 dalam pelayanan dan penyelesaian masalah (complain) agar kesetiaan pelanggan terhadap layanan 
@@ -119,6 +126,7 @@ Grafik tersebut menunjukkan bahwa mayoritas pelanggan menghabiskan waktunya
 selama 3 jam di ecommerce tersebut, baik melalui aplikasi maupun website. walaupun jumlah 
 jam tertinggi yang dihabiskan pelanggan di situs ecommerce bukan yang terlama, jumlah 
 cashback yang didapatkan pelanggan justru juga paling tinggi.
+
 Rekomendasi Bisnis:
 Hal tersebut dapat menjadi suatu cara untuk menarik pelanggan untuk tetap 
 menggunakan layanan. Semakin lama waktu yang dihabiskan pelanggan di situs ecommerce, 
@@ -131,7 +139,8 @@ telah menjadi pelanggan perusahaan atau berapa lama mereka telah menggunakan
 layanan tertentu
 − Mayoritas pelanggan memiliki Tenure yang relatif pendek, yang mengindikaskan 
 bahwa ada sejumlah besar pelanggan baru atau pelanggan dengan waktu penggunaak 
-layanan yang singkat
+layanan yang singkat.
+
 Rekomendasi Bisnis:
 Informasi Tenure dapat menjadi relevan dalam merencanakan strategi bisnis dan pemasaran. 
 Pelanggan dengan Tenure yang pendek mungkin memerlukan pendekatan yang berbeda 
@@ -144,7 +153,8 @@ yang dapat memberikan informasi penting dalam merencanakan strategi pemasaran
 atau layanan yang lebih tepat untuk kota-kota tersebut
 − Data OrderAmountHikeFromlastYear menunjukkan seberapa besar kenaikan pesanan 
 dari tahun sebelumnya, dan menunjukkan cara bagaiaman berkorelasi dengan cityTier 
-untuk mendapatkan wawasan yang lebih
+untuk mendapatkan wawasan yang lebih.
+
 Rekomendasi Bisnis:
 Menggunakan informasi CityTier, untuk mengkategorikan pelanggan menjadi 
 kelompok-kelompok berdasarkan lokasi geografis mereka. Ini memungkinkan Anda untuk 
@@ -157,7 +167,8 @@ memberikan pemahaman tentang seberapa sering pelanggan melakukan pesanan,
 dapat dilihat juga seberapa sering pesanan dilakukan
 − Mayoritas pelanggan melakukan pesanan dalam jangka waktu yang relatif pendek 
 sejak pesanan terakhir, yang mengindikasikan bahwa banyak pelanggan cendeung 
-memesan produk atau layanan secara berkala
+memesan produk atau layanan secara berkala.
+
 Rekomendasi Bisnis:
 Informasi mengenai DaySinceLastOrder penting dalam merencanakan stok dan pelayanan, 
 Pelanggan dengan jangka waktu pesanan yang singkat mungkin memerlukan perhatian 
@@ -172,7 +183,8 @@ rumah pelanggan.
 mereka, sebagian besar pelangan berada pada jarak yang cukup dekat dengan gudang
 − Beberapa pelanggan berada dalam jarak yang sangat dekat, sementara yang lain harus 
 dijangkau dalam jarak yang jauh, hal tersebut dapat mempengaruhi biaya pengiriman, 
-waktu pengiriman, dan kualitas layanan yang diberikan
+waktu pengiriman, dan kualitas layanan yang diberikan.
+
 Rekomendasi Bisnis:
 Analisis sebaran jarak dapat membantu untuk mengidentifikasi daerah yang mungkin 
 memerlukan pusat distribusi tambahan atau penyusunan ulang pusat distribusi yang ada. 
@@ -182,6 +194,7 @@ distribusi regional untuk mengurangi jarak pengiriman.
 Insight:
 Dapat dilihat dari grafik diatas, bahwa mayoritas pelanggan melakukan 2 kali transaksi dalam 
 sebulan. Angka tersebut cenderung kecil.
+
 Rekomendasi Bisnis:
 Pelaku bisnis dapat merancang strategi pemasaran yang memungkinkan pelanggan untuk 
 bertransaksi lebih sering, seperti dengan mengirimkan penawaran khusus atau mengadakan 
@@ -197,6 +210,7 @@ menggunakan sama sekali selama sebulan terakhir.
 − Rendahnya penggunaan kupon dapat disebabkan oleh berbagai faktor, seperti 
 ketidakpengetahuan pelanggan tentang kupon yang tersedia, ketidakminatan dalam 
 promosi, atau ketersediaan produk yang sesuai.
+
 Rekomendasi Bisnis:
 Pelaku bisnis dapat mengadakan promosi khusus atau kampanye yang mendorong pelanggan 
 untuk memanfaatkan kupon lebih sering, seperti penawaran khusus agar pelanggan lebih aktif 
@@ -216,6 +230,7 @@ ketidaknyamanan.
 keinginan pelanggan untuk menjaga privasi atau keamanan. Mereka mungkin memilih 
 untuk tidak menggunakan alamat pribadi untuk tujuan pengiriman demi menjaga 
 kerahasiaan tempat tinggal mereka.
+
 Rekomendasi Bisnis:
 Pastikan perusahaan memiliki sistem manajemen alamat yang baik di tempat. Ini termasuk 
 mengizinkan pelanggan untuk dengan mudah memilih alamat pengiriman dan tagihan yang 
@@ -230,7 +245,8 @@ sebesar 43,1%, disusul denga pelanggan yang memiliki 3 device dan 5 device sebes
 empat perangkat berbeda untuk berbelanja online. Hal ini menunjukkan bahwa 
 pelanggan e-commerce cenderung mengakses platform tersebut dari berbagai 
 perangkat untuk berbelanja dan menjelajahi produk.
-Rekomendasi Bisnis
+
+Rekomendasi Bisnis:
 Pelanggan yang menggunakan beberapa perangkat akan lebih fleksibel dalam aktivitas 
 berbelanja mereka. Mereka dapat mulai mencari produk di salah satu perangkat dan 
 melanjutkan pembelian mereka di perangkat lain tanpa kesulitan. Oleh karena itu Pastikan 
