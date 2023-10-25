@@ -1,5 +1,5 @@
 # EDA-Srikandi
-Insight:
+Insight pertama :
 − Pelanggan Laki-laki Mengalami Churn yang Lebih Tinggi: Jumlah pelanggan lakilaki yang berhenti berlangganan (549) lebih tinggi daripada pelanggan perempuan 
 (318). Ini menunjukkan bahwa laki-laki memiliki tingkat churn yang lebih tinggi 
 dalam dataset ini.
