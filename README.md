@@ -46,7 +46,7 @@ Download dataset [Disini](https://www.kaggle.com/datasets/ankitverma2010/ecommer
 
 
 ## Machine Learning Workflow
-![Google Drive Image](https://drive.google.com/uc?export=view&id=1oHFeic_FP2p7W0Ffh_dce0xfAsXHup5N)
+<!-- ![Google Drive Image](https://drive.google.com/uc?export=view&id=1oHFeic_FP2p7W0Ffh_dce0xfAsXHup5N) -->
 Dalam langkah Churn Prediction Analysis terbagi dalam beberapa Stage
 1. Stage 0: Problem Statements, Goal, & Objective Analysis
 2. Stage 1: EDA, Insights & Visialization (Data Understanding)
@@ -58,5 +58,16 @@ Dalam langkah Churn Prediction Analysis terbagi dalam beberapa Stage
 ### Goal
 ### Objective
 ### Business Metric
+
+## Stage 1 :
+### EDA & Insight Summary
+
+## Stage 2 :
+### Preprocessing
+
+## Stage 3 :
+### Modeling
+
+### Recommendation
 
 
