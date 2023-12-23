@@ -54,13 +54,58 @@ Dalam langkah Churn Prediction Analysis terbagi dalam beberapa Stage
 4. Stage 3: Machine Learning Modelling & Model Evaluation
 
 ## Stage 0 :
+### Context
+sebuah e-commerce saat ini mengalami customer churn sebesar 16.8%. Hal
+tersebut menyebabkan e-commerce kehilangan banyak customer. Selain itu,
+biaya untuk mengakuisisi customer baru jauh lebih besar daripada biaya untuk mempertahankan customer lama. Oleh karena itu, e-commerce perlu
+melakukan identifikasi penyebab customer churn dan solusi untuk mengatasi
+permasalahan tersebut. Dengan memprediksi customer mana saja yang
+memiliki kemungkinan untuk churn dengan menggunakan total cost dari
+(Acqusition cost + retain cost ).
+
 ### Problem Statements
+Memprediksi siapa saja pelanggan yang akan churn, dengan menggunakan total cost dari (Acqusition cost + retain cost ).
+
 ### Goal
+E- commerce mampu mengefisiensikan pengeluaran cost bagi customer churn menjadi lebih hemat sekitar 40% .
+
 ### Objective
+Dapat mengefisienkan cost yang dikeluarkan oleh e-commerce untuk customer churn.
+
 ### Business Metric
+Bisnis metrics yang kami gunakan yakni total cost yang diperoleh dari perhitungan ( Acqusition cost + retain cost ).
 
 ## Stage 1 :
 ### EDA & Insight Summary
+1. Pelanggan Laki-laki Mengalami Churn yang
+Lebih Tinggi: Jumlah pelanggan laki-laki yang
+berhenti berlangganan (549) lebih tinggi daripada
+pelanggan perempuan (318). Ini menunjukkan
+bahwa laki-laki memiliki tingkat churn yang lebih
+tinggi dalam dataset ini.
+2. Terlihat bahwa pelanggan dengan status
+perkawinan Single cenderung memiliki tingkat
+churn yang lebih tinggi. Ini bisa mengindikasikan
+bahwa pelanggan lajang lebih rentan untuk
+berpindah dibandingkan dengan pelanggan yang
+sudah menikah dari total (1796) customer.
+3. Grafik menunjukkan bahwa mayoritas pelanggan
+memilih untuk login ke ecommerce dengan
+menggunakan device mobile phone atau telpon
+genggam dengan jumlah pelanggan lebih dari
+2500 pengguna.
+4. Debit Card Populer: Pembayaran menggunakan
+kartu debit (Debit Card) adalah yang paling
+populer di antara pelanggan. Dengan 2208
+pelanggan yang memilih opsi ini, ini adalah
+metode pembayaran yang mendominasi.
+5. Berdasarkan grafik plot tersebut diketahui bahwa
+kategori Laptop & Accessory sangat
+mendominasi penjualan menandakan
+produk-produk denga kategori ini sangat diminati
+oleh para customer.
+<!-- JH -->
+ 
 
 ## Stage 2 :
 ### Preprocessing
